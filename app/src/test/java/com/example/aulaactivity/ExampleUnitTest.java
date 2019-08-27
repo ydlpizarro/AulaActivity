@@ -1,4 +1,4 @@
-package com.example.TreinandoAndroidStudio;
+package com.example.aulaactivity;
 
 import org.junit.Test;
 
